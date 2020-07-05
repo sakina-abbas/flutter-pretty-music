@@ -1,6 +1,13 @@
 # pretty_music
 
-A new Flutter application.
+A beautiful Flutter Music Application with Audio Player integration to play and control music.
+
+## References
+
+Design inspired by [here](https://dribbble.com/shots/2908226-Music-UI-Exploration)
+Plugin used for playing & controlling audio: [assets_audio_player](https://pub.dev/packages/assets_audio_player)
+
+If you wish to contribute, contact me on [LinkedIn](https://pk.linkedin.com/in/sakina-abbas)
 
 ## Getting Started
 
